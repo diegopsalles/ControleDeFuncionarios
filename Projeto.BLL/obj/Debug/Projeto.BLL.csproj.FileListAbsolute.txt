@@ -1,0 +1,13 @@
+C:\Users\Diego\Downloads\Aula16_projeto\Aula16\Projeto.BLL\bin\Debug\Projeto.BLL.dll
+C:\Users\Diego\Downloads\Aula16_projeto\Aula16\Projeto.BLL\bin\Debug\Projeto.BLL.pdb
+C:\Users\Diego\Downloads\Aula16_projeto\Aula16\Projeto.BLL\bin\Debug\Projeto.DAL.dll
+C:\Users\Diego\Downloads\Aula16_projeto\Aula16\Projeto.BLL\bin\Debug\Projeto.Entities.dll
+C:\Users\Diego\Downloads\Aula16_projeto\Aula16\Projeto.BLL\bin\Debug\Dapper.dll
+C:\Users\Diego\Downloads\Aula16_projeto\Aula16\Projeto.BLL\bin\Debug\Projeto.DAL.pdb
+C:\Users\Diego\Downloads\Aula16_projeto\Aula16\Projeto.BLL\bin\Debug\Projeto.Entities.pdb
+C:\Users\Diego\Downloads\Aula16_projeto\Aula16\Projeto.BLL\bin\Debug\Dapper.xml
+C:\Users\Diego\Downloads\Aula16_projeto\Aula16\Projeto.BLL\obj\Debug\Projeto.BLL.csprojAssemblyReference.cache
+C:\Users\Diego\Downloads\Aula16_projeto\Aula16\Projeto.BLL\obj\Debug\Projeto.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Downloads\Aula16_projeto\Aula16\Projeto.BLL\obj\Debug\Projeto.BLL.csproj.CopyComplete
+C:\Users\Diego\Downloads\Aula16_projeto\Aula16\Projeto.BLL\obj\Debug\Projeto.BLL.dll
+C:\Users\Diego\Downloads\Aula16_projeto\Aula16\Projeto.BLL\obj\Debug\Projeto.BLL.pdb

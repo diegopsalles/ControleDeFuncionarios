@@ -1,0 +1,6 @@
+C:\Users\Diego\Downloads\Aula16_projeto\Aula16\Projeto.Entities\bin\Debug\Projeto.Entities.dll
+C:\Users\Diego\Downloads\Aula16_projeto\Aula16\Projeto.Entities\bin\Debug\Projeto.Entities.pdb
+C:\Users\Diego\Downloads\Aula16_projeto\Aula16\Projeto.Entities\obj\Debug\Projeto.Entities.csprojAssemblyReference.cache
+C:\Users\Diego\Downloads\Aula16_projeto\Aula16\Projeto.Entities\obj\Debug\Projeto.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Downloads\Aula16_projeto\Aula16\Projeto.Entities\obj\Debug\Projeto.Entities.dll
+C:\Users\Diego\Downloads\Aula16_projeto\Aula16\Projeto.Entities\obj\Debug\Projeto.Entities.pdb
